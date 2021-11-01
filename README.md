@@ -1,5 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working on python and FLutter
+To do List :
+  - django python 
 <!--
 **SiwakornJew/SiwakornJew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
