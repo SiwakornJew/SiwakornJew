@@ -4,7 +4,9 @@
 
 
 To do List :
-  - django python 
+  - scala
+  - .net
+  - JWT,oauth2 
 
 
 
