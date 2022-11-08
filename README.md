@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m ....
+🔭 I’m something from ce kmitl bruuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 
 
 
