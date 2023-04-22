@@ -6,12 +6,6 @@
 To do List :
   - scala
   - .net
-  - JWT,oauth2 
-
-Now working on this 
- -->>https://github.com/sawid/medicare_backend_springboot/tree/main 
-
-
 
 <!--
 **SiwakornJew/SiwakornJew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
